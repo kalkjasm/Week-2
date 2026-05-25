@@ -11,6 +11,7 @@ package studentlist;
 public class Student {
   private String name;    //encapsulation
   private int sid;
+  private String semester;
   public String getName(){
      return this.name; 
   }
